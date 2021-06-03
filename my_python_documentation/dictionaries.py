@@ -5,7 +5,8 @@
 person = {
     'first_name': 'Amir',
     'last_name': 'Othmani',
-    'age' : 23
+    'age': 23,
+    'list': [1,2,3,4,5]
 }
 
 # Use constructor
@@ -14,6 +15,8 @@ person2 = dict(first_name='skandar', last_name='othmani', )
 # Get value
 print(person['first_name'])
 print(person.get('last_name')) # get method
+print(person.get('list'))
+print(person.get('list')[1])
 
 # Add key/value
 person['phone'] = '92104649'
