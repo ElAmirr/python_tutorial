@@ -1,0 +1,24 @@
+{
+    "states": [
+        {
+            "name": "Alabama",
+            "abbreviation": "AL",
+            "area_codes": ["205", "20366", "2807", "2068"]
+        },
+        {
+            "name": "Alaska",
+            "abbreviation": "AL",
+            "area_codes": ["205", "206", "2027", "208"]
+        },
+        {
+            "name": "Arizona",
+            "abbreviation": "AR",
+            "area_codes": ["205", "06", "207", "208"]
+        },
+        {
+            "name": "California",
+            "abbreviation": "CL",
+            "area_codes": ["2005", "20896", "207", "2008"]
+        }
+    ]
+}
